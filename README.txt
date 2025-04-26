@@ -75,10 +75,3 @@ Due to ongoing exams, time was limited, and as a result, not all functionalities
 
 Feel free to fork the repository and submit pull requests. All improvements and suggestions are welcome!
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or suggestions, please reach out to me at [Your Email].
